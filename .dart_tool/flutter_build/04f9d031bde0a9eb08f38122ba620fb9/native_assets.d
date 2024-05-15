@@ -1,0 +1,1 @@
+ E:\\Applications\\CodingWeek\\MatrixMultiplier_Flutter\\.dart_tool\\flutter_build\\04f9d031bde0a9eb08f38122ba620fb9\\native_assets.yaml: 
