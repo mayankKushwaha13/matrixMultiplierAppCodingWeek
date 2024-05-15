@@ -1,4 +1,4 @@
-com.example.untitled4
+com.example.matrixmultiplier_flutter
 attr activityAction
 attr activityName
 attr alpha

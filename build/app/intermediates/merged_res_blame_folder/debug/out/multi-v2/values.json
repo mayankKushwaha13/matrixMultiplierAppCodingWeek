@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.untitled4.app-mergeDebugResources-9:/values/values.xml",
+            "outputFile": "com.example.matrixmultiplier_flutter.app-mergeDebugResources-9:/values/values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\coolm\\.gradle\\caches\\transforms-3\\076eb9235982ee06112d76594ea8585f\\transformed\\jetified-window-1.0.0-beta04\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Applications\\CodingWeek\\MatrixMultiplier_Flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\Applications\\CodingWeek\\matrixmultiplier_flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
